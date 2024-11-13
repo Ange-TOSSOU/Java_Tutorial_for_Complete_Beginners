@@ -7,7 +7,10 @@
 - **Chapter 4** : How to get The most out of this course    
 
 ## Section 2 : Programming Core Java
-- **Chapter 5** : A Hello World Program
+- **Chapter 5** : [A Hello World program][chapter_5_programs]
+- **Chapter 6** : Using variables
 
 ## Section 3 : The Java Collections Framework
 ## Section 5 : What's New In Java 8 ?
+
+[chapter_5_programs]: https://github.com/Ange-TOSSOU/Java_Tutorial_for_Complete_Beginners/tree/main/Chapter_5
