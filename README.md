@@ -34,6 +34,15 @@ These notes are based on the [Oracle Java SE Tutorial][oracle_java_se_tutorial].
   - `double` : a single-precision 64-bit IEEE 754 floating point; generally the default choice for decimal values; **should never be used for precise values, such as currency**
   - `boolean` : has only two possible values : *true* and *false*
   - `char` : a single 16-bit Unicode character
+- Special escape sequences for `char` are:
+  - `\b` (backspace)
+  - `\t` (tab)
+  - `\n` (line feed)
+  - `\f` (form feed)
+  - `\r` (carriage return)
+  - `\"` (double quote)
+  - `\'` (single quote)
+  - `\\` (backslash)
 
 [oracle_java_se_tutorial]: https://docs.oracle.com/javase/tutorial/
 
