@@ -18,8 +18,9 @@
 [chapter_6_programs]: https://github.com/Ange-TOSSOU/Java_Tutorial_for_Complete_Beginners/tree/main/Chapter_6
 
 ## Additional notes
-These notes are based on the Oracle Java SE Tutorial : [Variables][oracle_tutorial_variables] and [Primitive_Data_Types][oracle_tutorial_primitive_data_types].
+These notes are based on the [Oracle Java SE Tutorial][oracle_java_se_tutorial].
 ### About chapter 6
+Notes on this chapter are based on [Variables][oracle_tutorial_variables] and [Primitive_Data_Types][oracle_tutorial_primitive_data_types] Java SE Tutorial.
 - Java defines the following kinds of variables:
   - `Instance variables`
   - `Class variables`
@@ -45,6 +46,7 @@ These notes are based on the Oracle Java SE Tutorial : [Variables][oracle_tutori
   - `\'` (single quote)
   - `\\` (backslash)
 
+[oracle_java_se_tutorial]: https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html
 [oracle_tutorial_variables]: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html
 [oracle_tutorial_primitive_data_types]: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 
