@@ -1,6 +1,7 @@
 package Java.Java_Tutorial_for_Complete_Beginners.Chapter_7;
 
 public class Application {
+
     public static void main(String[] args) {
         String text = "Hello";
         String blank = " ";
@@ -16,4 +17,5 @@ public class Application {
         double myDouble = 7.8;
         System.out.println("My number is: " + myDouble);
     }
+
 }

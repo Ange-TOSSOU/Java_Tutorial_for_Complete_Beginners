@@ -1,6 +1,7 @@
 package Java.Java_Tutorial_for_Complete_Beginners.Chapter_6;
 
 public class Application {
+
     public static void main(String[] args) {
         short myShort = 847; // 16-bit or 2-byte variable
         int myInt = 88; // 32-bit or 4-byte variable
@@ -32,4 +33,5 @@ public class Application {
 
         System.out.println(myByte);
     }
+
 }
