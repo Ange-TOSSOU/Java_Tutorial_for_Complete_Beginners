@@ -9,6 +9,7 @@
 ## Section 2 : Programming Core Java
 - **Chapter 5** : [A Hello World program][chapter_5_programs]
 - **Chapter 6** : [Using variables][chapter_6_programs]
+- **Chapter 7** : Strings: Working with text
 
 ## Section 3 : The Java Collections Framework
 ## Section 5 : What's New In Java 8 ?
@@ -17,7 +18,7 @@
 [chapter_6_programs]: https://github.com/Ange-TOSSOU/Java_Tutorial_for_Complete_Beginners/tree/main/Chapter_6
 
 ## Additional notes
-These notes are based on the [Oracle Java SE Tutorial][oracle_java_se_tutorial].
+These notes are based on the Oracle Java SE Tutorial : [Variables][oracle_tutorial_variables] and [Primitive_Data_Types][oracle_tutorial_primitive_data_types].
 ### About chapter 6
 - Java defines the following kinds of variables:
   - `Instance variables`
@@ -44,6 +45,7 @@ These notes are based on the [Oracle Java SE Tutorial][oracle_java_se_tutorial].
   - `\'` (single quote)
   - `\\` (backslash)
 
-[oracle_java_se_tutorial]: https://docs.oracle.com/javase/tutorial/
+[oracle_tutorial_variables]: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html
+[oracle_tutorial_primitive_data_types]: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 
 [comment]: # (String objects are immutable, which means that once created, their values cannot be changed.)
