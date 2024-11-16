@@ -9,13 +9,14 @@
 ## Section 2 : Programming Core Java
 - **Chapter 5** : [A Hello World program][chapter_5_programs]
 - **Chapter 6** : [Using variables][chapter_6_programs]
-- **Chapter 7** : Strings: Working with text
+- **Chapter 7** : [Strings: Working with text][chapter_7_programs]
 
 ## Section 3 : The Java Collections Framework
 ## Section 5 : What's New In Java 8 ?
 
 [chapter_5_programs]: https://github.com/Ange-TOSSOU/Java_Tutorial_for_Complete_Beginners/tree/main/Chapter_5
 [chapter_6_programs]: https://github.com/Ange-TOSSOU/Java_Tutorial_for_Complete_Beginners/tree/main/Chapter_6
+[chapter_7_programs]: https://github.com/Ange-TOSSOU/Java_Tutorial_for_Complete_Beginners/tree/main/Chapter_7
 
 ## Additional notes
 These notes are based on the [Oracle Java SE Tutorial][oracle_java_se_tutorial].
