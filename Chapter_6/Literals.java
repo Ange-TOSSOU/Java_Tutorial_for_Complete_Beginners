@@ -13,6 +13,7 @@ public class Literals {
         System.out.println("HexVal : " + hexVal);
         System.out.println("BinVal : " + binVal);
         System.out.println("val : " + val);
+        System.out.println();
 
         // Floating-Point Literals
         double d1 = 123.4;
@@ -24,5 +25,11 @@ public class Literals {
         System.out.println("D2 : " + d2);
         System.out.println("D3 : " + d3);
         System.out.println("F1 : " + f1);
+        System.out.println();
+
+        // Character Literals
+        char c = 'J';
+
+        System.out.println("C : " + c);
     }
 }
