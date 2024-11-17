@@ -9,7 +9,7 @@
 ## Section 2 : Programming Core Java
 - **Chapter 5** : [A Hello World program][chapter_5_programs]
 - **Chapter 6** : [Using variables][chapter_6_programs]
-- **Chapter 7** : [Strings: Working with text][chapter_7_programs]
+- **Chapter 7** : [Strings: working with text][chapter_7_programs]
 
 ## Section 3 : The Java Collections Framework
 ## Section 5 : What's New In Java 8 ?
@@ -20,6 +20,7 @@
 
 ## Additional notes
 These notes are based on the [Oracle Java SE Tutorial][oracle_java_se_tutorial].
+
 ### About chapter 6
 Notes on this chapter are based on [Variables][oracle_tutorial_variables] and [Primitive_Data_Types][oracle_tutorial_primitive_data_types] Java SE Tutorial.
 - Java defines the following kinds of variables:
@@ -47,8 +48,17 @@ Notes on this chapter are based on [Variables][oracle_tutorial_variables] and [P
   - `\'` (single quote)
   - `\\` (backslash)
 
+### About chapter 7
+Notes on this chapter are based on [Strings][oracle_tutorial_strings] Java SE Tutorial.
+- `String` class has 13 constructors, allowing to provide the initial value of the string using different sources.
+- `String` objects are immutable, which means that once created, their values cannot be changed.
+- List of some `String` methods signature :
+  - public int `length`()
+  - public char `charAt`(int index)
+  - public String `concat`(String str)
+- The `+` operator is the most used for concatenation. And such a concatenation can be mixture of any objects. So, for each object that is not a `String`, its `toString`() method is called to convert it to a `String`.
+
 [oracle_java_se_tutorial]: https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html
 [oracle_tutorial_variables]: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html
 [oracle_tutorial_primitive_data_types]: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
-
-[comment]: # (String objects are immutable, which means that once created, their values cannot be changed.)
+[oracle_tutorial_strings]: https://docs.oracle.com/javase/tutorial/java/data/strings.html
