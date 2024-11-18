@@ -10,6 +10,8 @@
 - **Chapter 5** : [A Hello World program][chapter_5_programs]
 - **Chapter 6** : [Using variables][chapter_6_programs]
 - **Chapter 7** : [Strings: working with text][chapter_7_programs]
+- **Chapter 8** : [While loops][chapter_8_programs]
+- **Chapter 9** : [For loops][chapter_9_programs]
 
 ## Section 3 : The Java Collections Framework
 ## Section 5 : What's New In Java 8 ?
@@ -17,6 +19,8 @@
 [chapter_5_programs]: https://github.com/Ange-TOSSOU/Java_Tutorial_for_Complete_Beginners/tree/main/Chapter_5
 [chapter_6_programs]: https://github.com/Ange-TOSSOU/Java_Tutorial_for_Complete_Beginners/tree/main/Chapter_6
 [chapter_7_programs]: https://github.com/Ange-TOSSOU/Java_Tutorial_for_Complete_Beginners/tree/main/Chapter_7
+[chapter_8_programs]: https://github.com/Ange-TOSSOU/Java_Tutorial_for_Complete_Beginners/tree/main/Chapter_8
+[chapter_9_programs]: https://github.com/Ange-TOSSOU/Java_Tutorial_for_Complete_Beginners/tree/main/Chapter_9
 
 ## Additional notes
 These notes are based on the [Oracle Java SE Tutorial][oracle_java_se_tutorial].
